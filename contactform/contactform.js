@@ -115,7 +115,7 @@ jQuery(document).ready(function ($) {
     Email.send({
       Host: "smtp.gmail.com",
       Username: "vodanhquanzz@gmail.com",
-      Password: "eeztqdeypthighjf",
+      Password: "zppjoszxyhtpipku",
       To: 'vodanhquanzz@gmail.com',
       From: str.email || "vodanhquanzz@gmail.com",
       Subject: str.name + "-" + str.subject,
